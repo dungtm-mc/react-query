@@ -31,3 +31,12 @@ body {
     text-wrap: balance;
   }
 }
+
+@font-face {
+  font-family: 'Google Sans';
+  src: url('./fonts/OpenSans-Medium.ttf');
+}
+
+* {
+  font-family: 'Google Sans';
+}
